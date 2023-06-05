@@ -1,8 +1,8 @@
 const HeaderItem = ({ name, Logo }) => {
   return (
-    <div className="flex  items-center gap-3 cursor-pointer hover:underline underline-offset-8 transition-all ease-in-out delay-150 ">
+    <div className="flex lg:text-xl   items-center gap-1 cursor-pointer hover:underline underline-offset-8  ">
       <Logo />
-      <h2 className="hidden  md:block">{name}</h2>
+      <h2 className="hidden    md:block ">{name}</h2>
     </div>
   );
 };

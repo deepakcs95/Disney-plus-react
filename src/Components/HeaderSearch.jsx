@@ -6,7 +6,7 @@ const HeaderSearch = () => {
     <div className="md:bg-[#31333c]  flex items-center justify-center md:px-1 md:gap-1 md:rounded-full ">
       <AiOutlineSearch className="hidden md:block" />
       <input
-        className="bg-transparent  w-0 text-sm hover:border-0 outline-none md:w-[50px]"
+        className="bg-transparent  w-0 text-sm hover:border-0 outline-none md:w-[50px] lg:w-[250px]"
         type="text"
         placeholder="Search"
       />
