@@ -1,7 +1,7 @@
 import Disney from "../assets/logo/Disney.webp";
 import Marvel from "../assets/logo/marvel.webp";
 import Natgeo from "../assets/logo/natgeo.webp";
-import Pixar from "../assets/logo/pixar.webp";
+import Pixar from "../assets/logo/Pixar.webp";
 import StarWars from "../assets/logo/starwars.webp";
 
 import disney from "../assets/video/disney.mp4";
